@@ -1,0 +1,4 @@
+TODO: Create művelet a /api/newdrink végponttal
+TODO: Update művelet a /api/updatedrink végponttal
+TODO: Delete művelet a /api/deletedrink végponttal
+
