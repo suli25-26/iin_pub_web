@@ -1,4 +1,10 @@
-TODO: Create művelet a /api/newdrink végponttal
 TODO: Update művelet a /api/updatedrink végponttal
 TODO: Delete művelet a /api/deletedrink végponttal
 
+TODO: típus komponens
+TODO: typus CRUD műveletek
+TODO: csomag komponens
+TODO: csomag CRUD műveletek
+
+TODO: A drink komponesben a típus legördülő listabozól
+TODO. A drink komponensben a csomag legördülő listabozól
