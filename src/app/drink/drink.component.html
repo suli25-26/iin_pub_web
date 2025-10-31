@@ -78,11 +78,23 @@ data-bs-toggle="modal" data-bs-target="#operationModal">
                 <input type="text" id="price"
                 formControlName="price" class="form-control">
             </div>
-            <div class="input">
+
+
+            <!-- <div class="input">
                 <label for="type" class="form-label">Típus</label>
                 <input type="text" id="type"
                 formControlName="type" class="form-control">
+            </div> -->
+
+            <div class="input">
+                <label for="type" class="form-label">Típus</label>
+                <select id="" formControlName="type" class="form-select">
+                    @for(type of types; track type.id) {
+                        <option>{{type.type}}</option>
+                    }
+                </select>
             </div>
+        
             <div class="input">
                 <label for="package" class="form-label">Csomagolás</label>
                 <input type="text" id="package"

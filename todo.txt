@@ -1,3 +1,7 @@
+TODO: csomagokhoz Read művelet szolgáltatást
+TODO: A drink komponensben a csomag legördülő listabozól
+
+
 TODO: Update művelet a /api/updatedrink végponttal
 TODO: Delete művelet a /api/deletedrink végponttal
 
@@ -6,5 +10,3 @@ TODO: typus CRUD műveletek
 TODO: csomag komponens
 TODO: csomag CRUD műveletek
 
-TODO: A drink komponesben a típus legördülő listabozól
-TODO. A drink komponensben a csomag legördülő listabozól
