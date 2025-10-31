@@ -1,5 +1,4 @@
 TODO: Update művelet a /api/updatedrink végponttal
-TODO: Delete művelet a /api/deletedrink végponttal
 
 TODO: típus komponens
 TODO: typus CRUD műveletek
